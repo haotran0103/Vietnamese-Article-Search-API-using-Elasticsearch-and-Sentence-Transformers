@@ -1,0 +1,11 @@
+Flask
+Flask-CORS
+elasticsearch
+sentence-transformers
+pyvi
+urllib3
+matplotlib
+numpy
+pandas
+transformers
+torch
