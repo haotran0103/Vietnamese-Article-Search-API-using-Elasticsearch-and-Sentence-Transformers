@@ -81,4 +81,4 @@ The API will respond with a list of titles of articles that are relevant to the 
 ## Results
 
 The Vietnamese Article Search API effectively combines traditional BM25 search with semantic search using vector embeddings. This approach ensures that search results are both relevant and contextually accurate, providing a better user experience when searching for Vietnamese articles.
-![Sentiment Analysis](https://github.com/haotran0103/sentiment-app/blob/master/image.png)
+![Sentiment Analysis]([https://github.com/haotran0103/sentiment-app/blob/master/image.png](https://github.com/haotran0103/Vietnamese-Article-Search-API-using-Elasticsearch-and-Sentence-Transformers/blob/master/image.png))
